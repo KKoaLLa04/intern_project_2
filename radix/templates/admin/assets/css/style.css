@@ -1,0 +1,18 @@
+.error{
+    color: red;
+    font-size: 90%;
+    font-style: italic;
+}
+
+.gallery-images .gallery-item{
+    margin-bottom: 10px;
+}
+
+.slide-wrapper .slide-item{
+    margin-bottom: 30px;
+    border-bottom: 1px solid #ddd;
+}
+
+.skill-wrapper .skill-item{
+    margin-bottom: 15px;
+}
